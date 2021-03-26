@@ -5,8 +5,10 @@ class MiFooter
       
     `
     &copy; 2021 Alma velez 
-      Basado en pagina https://gilpgdm.github.io/6_iot/index.html de Gilberto 
-      Pacheco Gallegos.`;
+ <br>
+        Fuente de Información: 
+        <a href="https://gilpgijs.github.io/"> https://gilpgijs.github.io/</a>. 
+     de Gilberto Pacheco Gallegos.`;
   }
 }
 customElements.define(
